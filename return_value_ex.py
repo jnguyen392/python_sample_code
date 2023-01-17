@@ -1,7 +1,7 @@
 """
-TEST_PROGRAM
-(notes here)
+Sample exercise from Chapter 8:
 
+The following example code shows how to return a value via a function.
 """
 def format_name(first_n, last_n):
         full_n = f"{first_n} {last_n}"
