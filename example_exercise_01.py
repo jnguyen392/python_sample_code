@@ -1,4 +1,6 @@
 """
+Exercise that takes as input a first, middle and last name and uses a function to print the results.
+
 The following code features another example of function usage.
 The function uses an OPTIONAL argument this time.
 
